@@ -80,7 +80,10 @@ nav li {
     justify-content: flex-start;
     padding: 10px;
     border-left: var(--inside-text-color) solid 4px;
+    text-align: justify;
 }
+
+
 
 .about-me h2 {
     color:var(--inside-text-color);
@@ -189,7 +192,7 @@ footer li {
 
 footer h2 {
     color:var(--inside-text-color);
-    padding: 10px 8px 20px 20px;
+    padding: 10px 8px 20px 5px;
     height: 80%;
     width: fit-content;
 }
@@ -198,7 +201,7 @@ footer ul {
     display: flex;
     padding: 20px 20px 20px 0px;
     border-left: var(--inside-text-color) solid 4px;
-    justify-content: space-around;
+    justify-content: space-evenly;
     width: 100%;
    
 }

@@ -15,8 +15,8 @@ So, I added <alt> attributes in every image and <title> in the background image,
 ## Getting started
 To access the website, simply type in the website address in your browser. Once the website loads, you will be presented with the homepage. From there, you can navigate to different website sections using the menu bar at the top of the page.
 
-A screenshot is available inside the assets folder.
-![alt text](assets/images/screenshot.jpg)*****IT IS NO CORRECT!!!!!!
+A file .gif is available inside the assets folder.
+[](assets/images/portafolio.gif)
 
 
 ## Credits
